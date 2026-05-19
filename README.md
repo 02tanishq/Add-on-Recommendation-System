@@ -100,10 +100,6 @@ Ablation on Instacart 2017 test set (leave-one-out evaluation, full-catalog rank
 | + DIN cross-attention | — | — | — | — | — |
 | + Coverage loss (CartComplete) | — | — | — | — | — |
 
-*Fill in your measured numbers after training. Each row adds one component.*
-
----
-
 ## Dataset
 
 **Instacart 2017 Market Basket Analysis** — 3.4M orders, 206k users, 49k products.  
